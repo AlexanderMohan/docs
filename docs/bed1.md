@@ -3,7 +3,8 @@ id: bed1
 title: About Bedlam Theatre
 ---
 
-# Bedlam Theatre and the EUTC
+## Bedlam Theatre and the EUTC
+
 Bedlam Theatre is a unique, entirely student-run theatre in the centre of Edinburgh. Clearly visible from Edinburgh’s Royal Mile in the heart of the city, Bedlam is a fully operational 90-seat theatre housed in an imposing neo-gothic church. Bedlam Exterior
 
 Bedlam Theatre is both a listed building and a historical landmark - a unique space and community where students maintain the building themselves throughout the year.
@@ -12,6 +13,6 @@ The Edinburgh University Theatre Company puts on over 40 shows a year, and works
 
 Source: https://bedlamtheatre.co.uk/about (2020-05-11)
 
-# AlexanderMohan's Involvement
+## AlexanderMohan's Involvement
 
 We provide certain projects for free to the theatre, including our Digital Signage Platform, running on our IoT platform, as well as Show Flow, a project designed to make the Box Office more streamlined, including webhooks to talk to the Digital Signage Platform.
