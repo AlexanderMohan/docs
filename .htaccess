@@ -1,0 +1,3 @@
+# Rewrite --- /build/ => /
+
+RewriteRule ^build/$ /?&%{QUERY_STRING}
