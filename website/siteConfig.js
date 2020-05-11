@@ -21,41 +21,35 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
-  tagline: 'A website for testing',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
+  title: 'AlexanderMohan Docs', // Title for your website.
+  tagline: 'Providing documentation for (public) AlexanderMohan projects',
+  url: 'https://docs.alexandermohan.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'test-site',
-  organizationName: 'facebook',
+  projectName: 'docs',
+  organizationName: 'AlexanderMohan',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {doc: 'bed1', label: 'Bedlam Theatre Projects'},
+    {page: 'help', label: 'Help'}
   ],
 
   // If you have users set above, you add it here:
-  users,
-
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#1a0e67',
-    secondaryColor: '#120948',
+    primaryColor: '#000',
+    secondaryColor: '#121212',
   },
 
   /* Custom fonts for website */
@@ -73,7 +67,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} AlexanderMohan, which is a trading name of CHABGO LTD, registered company number 10032263`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -89,7 +83,7 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/undraw_online.svg',
+  ogImage: 'img/undraw_docs.svg',
   twitterImage: 'img/undraw_tweetstorm.svg',
 
   // For sites with a sizable amount of content, set collapsible to true.

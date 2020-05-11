@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: bedsf1
+title: About Show Flow
+sidebar_label: About
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
